@@ -51,6 +51,8 @@ public class PrimeiraTela extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
+        jPanel1.setBackground(new java.awt.Color(204, 204, 255));
+
         jLabel2.setText("usuário:");
 
         jTextField1.setToolTipText("digite seu nome de usuário");
